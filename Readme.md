@@ -15,7 +15,7 @@ Windows
 `Runtime Environment:`
 ` OS Name:     Windows`
 ` OS Version:  10.0.10586`
-` OS Platform: Windows``
+` OS Platform: Windows`
 ` RID:         win10-x64`
  
  
