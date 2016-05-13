@@ -8,7 +8,7 @@ All examples in this repos have tested under Windows, Mac OS and Ubuntu using be
 
 Windows
 -------------------
-Product Information:
+`Product Information:
  Version:     1.0.0-preview1-002700
  Commit Sha:  0336f6bb34
 
@@ -16,12 +16,12 @@ Runtime Environment:
  OS Name:     Windows
  OS Version:  10.0.10586
  OS Platform: Windows
- RID:         win10-x64
+ RID:         win10-x64`
  
  
  Mac OS
- ------------------
-Product Information:
+-------------------
+`Product Information:
  Version:     1.0.0-preview1-002700
  Commit Sha:  0336f6bb34
 
@@ -29,12 +29,12 @@ Runtime Environment:
  OS Name:     Mac OS X
  OS Version:  10.11
  OS Platform: Darwin
- RID:         osx.10.11-x64
+ RID:         osx.10.11-x64`
  
  
  Ubuntu
- ------------------
-Product Information:
+-------------------
+`Product Information:
  Version:     1.0.0-preview1-002700
  Commit Sha:  0336f6bb34
 
@@ -42,7 +42,7 @@ Runtime Environment:
  OS Name:     ubuntu
  OS Version:  14.04
  OS Platform: Linux
- RID:         ubuntu.14.04-x64
+ RID:         ubuntu.14.04-x64`
  
  
  
