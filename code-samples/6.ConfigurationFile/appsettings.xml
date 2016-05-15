@@ -1,0 +1,5 @@
+<XmlData>
+	<DefaultConnection key="ConnectionString" value="Data Source=SQLSERVER;Initial Catalog=database;User ID=sa;Password=sa">
+		This is Xml node text.
+	</DefaultConnection>
+</XmlData>
