@@ -6,6 +6,7 @@ This repository contains working examples using .NET Core, This is a work in pro
 #Code samples list
 |Id|Name|Description|Added Date|
 |---------|:------|:------|:------:|:------:|:------:|
+|7|SQLServer|This project shows how to connect to SQL Server in .net core.|16th May 2016|
 |6|ConfigurationFile|This project shows how to use json/xml/ini configuration files in .net core.|15th May 2016|
 |5|MultiPlatform|This project shows how to target multiple platforms when do publish.|13th May 2016|
 |4|ASPNET-WebApi|This project shows how to create asp.net web api application in .net core.|13th May 2016|
