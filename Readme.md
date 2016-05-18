@@ -18,13 +18,15 @@ This repository contains working examples using .NET Core, This is a work in pro
 
 
 
-All examples in this repos have tested under Windows, Mac OS and Ubuntu using below configuration:
+All examples in this repos have tested under Windows, Mac OS and Ubuntu using .NET Core RC2 and .NET Core SDK Preview 1.
+
+Configurations are as below:
 
 Windows
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview1-002700`
-` Commit Sha:  0336f6bb34`
+` Version:     1.0.0-preview1-002702`
+` Commit Sha:  6cde21225e`
 
 `Runtime Environment:`
 ` OS Name:     Windows`
@@ -36,8 +38,8 @@ Windows
  Mac OS
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview1-002700`
-` Commit Sha:  0336f6bb34`
+` Version:     1.0.0-preview1-002702`
+` Commit Sha:  6cde21225e`
 
 `Runtime Environment:`
 ` OS Name:     Mac OS X`
@@ -49,8 +51,8 @@ Windows
  Ubuntu
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview1-002700`
-` Commit Sha:  0336f6bb34`
+` Version:     1.0.0-preview1-002702`
+` Commit Sha:  6cde21225e`
 
 `Runtime Environment:`
 ` OS Name:     ubuntu`
@@ -65,5 +67,6 @@ Windows
 1. Get the dotnet CLI https://github.com/dotnet/cli#installers-and-binaries
 2. Clone this repo
 3. Navigate to the project folder you prefer
-4. run `dotnet restore` in the folder
-5. run `dotnet run`
+4. Make sure you have read the Readme.md file.
+5. run `dotnet restore` in the folder
+6. run `dotnet run`
