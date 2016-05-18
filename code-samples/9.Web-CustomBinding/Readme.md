@@ -10,4 +10,4 @@
 
 - **Please be aware that you need to change your hosts file and point the above binding address to localhost before testing.**
  
-- **Using Kestrel will only allow to bind one host to one port, you can't bind two different hosts to the same port.**
+- **Using Kestrel will ingore the host name, you can't bind two different hosts to the same port.**
