@@ -6,7 +6,8 @@ This repository contains working examples using .NET Core, This is a work in pro
 #Code samples list
 |Id|Name|Description|Added Date|
 |---------|:------|:------|:------:|:------:|:------:|
-|9|Web-CustomBinding|This project shows how to bind to different/multiple hosts in web application using Kestrel.|18th May 2016|
+|10|Web-CustomBinding-WebListener(Win-ONLY)|This project shows how to bind to different/multiple hosts in web applications using WebListener. This example will **ONLY** run under Windows.|18th May 2016|
+|9|Web-CustomBinding|This project shows how to bind more than one url in web applications using Kestrel.|18th May 2016|
 |8|EnvironmentVariables|This project shows how enviroment variables are different between different platforms.|17th May 2016|
 |7|SQLServer|This project shows how to connect to SQL Server in .net core.|16th May 2016|
 |6|ConfigurationFile|This project shows how to use json/xml/ini configuration files in .net core.|15th May 2016|
