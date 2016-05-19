@@ -65,7 +65,7 @@ Windows
  
 ## How to run
 
-1. Get the dotnet CLI https://github.com/dotnet/cli#installers-and-binaries
+1. Install the dotnet core RC2 from https://www.microsoft.com/net/core
 2. Clone this repo
 3. Navigate to the project folder you prefer
 4. Make sure you have read the Readme.md file.
