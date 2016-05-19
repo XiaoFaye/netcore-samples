@@ -6,6 +6,7 @@ This repository contains working examples using .NET Core, This is a work in pro
 #Code samples list
 |Id|Name|Description|Added Date|
 |---------|:------|:------|:------:|:------:|:------:|
+|11|Encodings|This project shows how the encodings are supported in .net core.|19th May 2016|
 |10|Web-CustomBinding-WebListener(Win-ONLY)|This project shows how to bind to different/multiple hosts in web applications using WebListener. This example will **ONLY** run under Windows.|18th May 2016|
 |9|Web-CustomBinding|This project shows how to bind more than one url in web applications using Kestrel.|18th May 2016|
 |8|EnvironmentVariables|This project shows how enviroment variables are different between different platforms.|17th May 2016|
