@@ -17,7 +17,7 @@ This repository contains working examples using .NET Core, This is a work in pro
 |4|ASPNET-WebApi|This project shows how to create asp.net web api application in .net core.|13th May 2016|
 |3|ASPNET-MVC|This project shows how to create asp.net MVC application in .net core.|13th May 2016|
 |2|HelloWorld-Web|This project shows how to create a simple web application in .net core.|13th May 2016|
-|1|HelloWorld|This project shows how to create the first hello world application in .net core.|13th May 2016|
+|1|[HelloWorld](https://github.com/XiaoFaye/netcore-samples/tree/master/code-samples/1.HelloWorld)|This project shows how to create the first hello world application in .net core.|13th May 2016|
 
 
 
