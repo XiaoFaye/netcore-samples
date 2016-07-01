@@ -7,11 +7,11 @@
   "dependencies": {
     "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0-*",
     "Microsoft.Extensions.Configuration.Json": "1.0.0-*",
-    "Microsoft.Extensions.Configuration.Xml": "1.0.0-*",
-    "Microsoft.Extensions.Configuration.Ini": "1.0.0-*",
+	"Microsoft.Extensions.Configuration.Xml": "1.0.0-*",
+	"Microsoft.Extensions.Configuration.Ini": "1.0.0-*",
     "Microsoft.NETCore.App": {
       "type": "platform",
-      "version": "1.0.0-rc2-3002702"
+      "version": "1.0.0"
     }
   },
   "frameworks": {
