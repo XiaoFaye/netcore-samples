@@ -29,8 +29,8 @@ Configurations are as below:
 Windows
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview1-002702`
-` Commit Sha:  6cde21225e`
+` Version:     1.0.0-preview2-003121`
+` Commit Sha:  1e9d529bc5`
 
 `Runtime Environment:`
 ` OS Name:     Windows`
@@ -42,8 +42,8 @@ Windows
  Mac OS
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview1-002702`
-` Commit Sha:  6cde21225e`
+` Version:     1.0.0-preview2-003121`
+` Commit Sha:  1e9d529bc5`
 
 `Runtime Environment:`
 ` OS Name:     Mac OS X`
@@ -55,8 +55,8 @@ Windows
  Ubuntu
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview1-002702`
-` Commit Sha:  6cde21225e`
+` Version:     1.0.0-preview2-003121`
+` Commit Sha:  1e9d529bc5`
 
 `Runtime Environment:`
 ` OS Name:     ubuntu`
