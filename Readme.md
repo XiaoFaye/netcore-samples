@@ -68,7 +68,7 @@ Windows
  
 ## How to run
 
-1. Install the dotnet core RC2 from https://www.microsoft.com/net/core
+1. Install the dotnet core 1.0 from https://www.microsoft.com/net/core
 2. Clone this repo
 3. Navigate to the project folder you prefer
 4. Make sure you have read the Readme.md file.
