@@ -22,7 +22,7 @@ This repository contains working examples using .NET Core, This is a work in pro
 
 
 
-All examples in this repos have been tested under Windows, Mac OS and Ubuntu using **.NET Core RC2 and .NET Core SDK Preview 1**.
+All examples in this repos have been tested under Windows, Mac OS and Ubuntu using **.NET Core 1.0 and .NET Core SDK Preview 2**.
 
 Configurations are as below:
 
