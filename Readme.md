@@ -6,6 +6,7 @@ This repository contains working examples using .NET Core, This is a work in pro
 #Code samples list
 |Id|Name|Description|Added Date|
 |---------|:------|:------|:------:|:------:|:------:|
+|14|EntityFramework|This project shows how to use Entity Framework in .net core.|27th September 2016|
 |13|Thread-Process|This project shows how to get processes and threads in .net core.|19th June 2016|
 |12|EmbeddedResource|This project show how to embed and read resources in .net core.|24th May 2016|
 |11|Encodings|This project shows how the encodings are supported in .net core.|19th May 2016|
