@@ -30,8 +30,8 @@ Configurations are as below:
 Windows
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview2-003121`
-` Commit Sha:  1e9d529bc5`
+` Version:     1.0.0-preview2-003156`
+` Commit Sha:  33dabee5d8`
 
 `Runtime Environment:`
 ` OS Name:     Windows`
@@ -43,8 +43,8 @@ Windows
  Mac OS
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview2-003121`
-` Commit Sha:  1e9d529bc5`
+` Version:     1.0.0-preview2-003156`
+` Commit Sha:  33dabee5d8`
 
 `Runtime Environment:`
 ` OS Name:     Mac OS X`
@@ -56,20 +56,20 @@ Windows
  Ubuntu
 -------------------
 `Product Information:`
-` Version:     1.0.0-preview2-003121`
-` Commit Sha:  1e9d529bc5`
+` Version:     1.0.0-preview2-003156`
+` Commit Sha:  33dabee5d8`
 
 `Runtime Environment:`
 ` OS Name:     ubuntu`
-` OS Version:  14.04`
+` OS Version:  16.04`
 ` OS Platform: Linux`
-` RID:         ubuntu.14.04-x64`
+` RID:         ubuntu.16.04-x64`
  
  
  
 ## How to run
 
-1. Install the dotnet core 1.0 from https://www.microsoft.com/net/core
+1. Install the dotnet core 1.0.3 from https://www.microsoft.com/net/core
 2. Clone this repo
 3. Navigate to the project folder you prefer
 4. Make sure you have read the Readme.md file.

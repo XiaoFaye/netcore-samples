@@ -6,10 +6,10 @@
   "dependencies": {
     "Microsoft.NETCore.App": {
       "type": "platform",
-      "version": "1.0.0"
+      "version": "1.0.1"
     },
-	"System.Diagnostics.Process": "4.1.0",
-    "System.Threading.Thread": "4.0.0"
+    "System.Diagnostics.Process": "4.3.0",
+    "System.Threading.Thread": "4.3.0"
   },
   "frameworks": {
     "netcoreapp1.0": {

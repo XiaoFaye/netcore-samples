@@ -5,13 +5,13 @@
 	"copyToOutput": ["appsettings.json", "appsettings.xml", "appsettings.ini"]
   },
   "dependencies": {
-    "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0-*",
-    "Microsoft.Extensions.Configuration.Json": "1.0.0-*",
-	"Microsoft.Extensions.Configuration.Xml": "1.0.0-*",
-	"Microsoft.Extensions.Configuration.Ini": "1.0.0-*",
+    "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.1.0",
+    "Microsoft.Extensions.Configuration.Json": "1.1.0",
+    "Microsoft.Extensions.Configuration.Xml": "1.1.0",
+    "Microsoft.Extensions.Configuration.Ini": "1.1.0",
     "Microsoft.NETCore.App": {
       "type": "platform",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   },
   "frameworks": {

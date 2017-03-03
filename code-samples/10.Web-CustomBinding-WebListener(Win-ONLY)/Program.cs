@@ -9,7 +9,7 @@ namespace ConsoleApplication
         {
 	    var host = new WebHostBuilder()
                         .UseWebListener()
-						.UseUrls("http://www.binding1.co.nz:80;http://www.binding2.co.nz:80")
+			.UseUrls("http://www.binding1.co.nz:80;http://www.binding2.co.nz:80")
                         .UseContentRoot(Directory.GetCurrentDirectory())
                         .UseStartup<Startup>()
                         .Build();

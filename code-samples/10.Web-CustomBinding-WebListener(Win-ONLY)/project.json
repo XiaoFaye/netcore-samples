@@ -5,10 +5,10 @@
   },
   "dependencies": {
     "Microsoft.AspNetCore.Hosting": "1.0.0-*",
-	"Microsoft.AspNetCore.Server.WebListener": "0.1.0-*",
+    "Microsoft.AspNetCore.Server.WebListener": "0.1.0-*",
     "Microsoft.NETCore.App": {
       "type": "platform",
-      "version": "1.0.0"
+      "version": "1.0.1"
     }
   },
   "frameworks": {
