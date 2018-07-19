@@ -9,4 +9,4 @@
 4. run `dotnet run`
 5. you should see the result 38 prints out
 
-*This has been tested under Ubuntu 18.04
+*This has been tested under Ubuntu and Mac OS
