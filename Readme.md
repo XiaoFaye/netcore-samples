@@ -27,20 +27,12 @@ Below are the OS enviroment I'm using to test my projects.
 
  Windows
 -------------------
-`Microsoft Windows 10 [Version 10.0.17134.165]`
+`Microsoft Windows 10 x64 [Version 10.0.17134.165]`
  
  
  Mac OS
 -------------------
-`Product Information:`
-` Version:     1.0.0-preview2-003156`
-` Commit Sha:  33dabee5d8`
-
-`Runtime Environment:`
-` OS Name:     Mac OS X`
-` OS Version:  10.11`
-` OS Platform: Darwin`
-` RID:         osx.10.11-x64`
+`Mac OS X 10.13 x64`
  
  
  Ubuntu
