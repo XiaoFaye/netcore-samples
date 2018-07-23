@@ -5,7 +5,7 @@ namespace CallCLib
 {
     class Program
     {
-        [DllImport(@"/path/to/so_file/plus.so", EntryPoint = "Add", CallingConvention = CallingConvention.StdCall)]
+        [DllImport(@"plus.so", EntryPoint = "Add", CallingConvention = CallingConvention.StdCall)]
         public static extern int Add(int a, int b);
 
 
